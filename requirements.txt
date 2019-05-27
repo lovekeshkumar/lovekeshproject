@@ -1,0 +1,11 @@
+Django==2.2.1
+djangorestframework==3.9.4
+fpdf==1.7.2
+Pillow==6.0.0
+PyQRCode==1.2.1
+pytesseract==0.2.6
+pytz==2019.1
+pyzbar==0.1.8
+qrcode==6.1
+six==1.12.0
+sqlparse==0.3.0
